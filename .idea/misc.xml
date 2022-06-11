@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/drawable/backupper.xml" value="0.2385" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/drawable/border.xml" value="0.2385" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/drawable/buttonborder.xml" value="0.2385" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/drawable/curv.xml" value="0.2385" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/drawable/info.xml" value="0.2385" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/drawable/logout.xml" value="0.2385" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/drawable/nextbutton.xml" value="0.2385" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/font/.xml" value="0.2625" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/font/baloo.xml" value="0.2625" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_about_us.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_add_phone.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_edit_profile.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_help_line.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_laws.xml" value="0.21037735849056605" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_location.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_log_out.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_login2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_login_user.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_message.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_mobile_otp.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_phone.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_profile.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_register_ormobile.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_settings.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_splash_screen.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_tutorial1.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_tutorial2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_tutorial3.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/activity_tutorial4.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/fragment_map.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/header.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/items.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/layout/toolbar.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Vedant/AndroidStudioProjects/Mini/app/src/main/res/menu/main_menu.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

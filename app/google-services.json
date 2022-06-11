@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716950543430",
+    "firebase_url": "https://mini-ccd9a-default-rtdb.firebaseio.com",
+    "project_id": "mini-ccd9a",
+    "storage_bucket": "mini-ccd9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716950543430:android:b6ff9a2b37d8e45276fe47",
+        "android_client_info": {
+          "package_name": "com.example.mini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716950543430-h2d510ues69dghg67ccrfmvcq21thpj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mini",
+            "certificate_hash": "15d743ba0487b4d99220a55b9ff443c99214c011"
+          }
+        },
+        {
+          "client_id": "716950543430-a6v0uroui0gf62nkmfb7h430gils941f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz4fVJe9RWxoSFknzIjTO5zoSEEPZ5ZMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716950543430-a6v0uroui0gf62nkmfb7h430gils941f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

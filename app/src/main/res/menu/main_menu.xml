@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+    <item
+        android:id="@+id/Home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24">
+    </item>
+    </group>
+
+        <item android:title="Profile">
+            <menu>
+                <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/Profile"
+                    android:title="Profile"
+                    android:icon="@drawable/person">
+                </item>
+                <item
+                    android:id="@+id/Logout"
+                    android:title="Logout"
+                    android:icon="@drawable/ilg24">
+                </item>
+                </group>
+            </menu>
+        </item>
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Settings"
+            android:title="Help"
+            android:icon="@drawable/ic_baseline_help_24">
+        </item>
+        <item
+            android:id="@+id/laws"
+            android:title="Laws"
+            android:icon="@drawable/law">
+
+        </item>
+        <item
+            android:id="@+id/Aboutus"
+            android:title="About Us"
+            android:icon="@drawable/info">
+        </item>
+    </group>
+</menu>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutUs">
+
+    <View
+        android:id="@+id/view5"
+        android:layout_width="414dp"
+        android:layout_height="187dp"
+        android:background="@drawable/splashback"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/baloo"
+        android:text="Laws"
+        android:textColor="#FFFFFF"
+        android:textSize="48sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.09" />
+
+    <ScrollView
+        android:layout_width="402dp"
+        android:layout_height="591dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.444"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.885">
+
+        <TextView
+            android:id="@+id/law"
+            android:layout_width="415dp"
+            android:layout_height="626dp"
+            android:fontFamily="@font/baloo"
+            android:padding="25dp"
+            android:text="1. Rules related to women protection in India
+• The Immoral Traffic (Prevention) Act,1956\n\n
+The act was made to suppress immoral traffic in women
+and children as India signed the United Nations
+International Convention for the “Suppression of Women
+in Traffic in Persons and of the Exploitation in Others” in
+New York on 9th May 1950. Subsequent amendments not
+only changed the nomenclature of the act but even the
+preamble to The Immoral Traffic (Prevention) Act, 1956
+(hereinafter referred to as PITA) and an act made “for the
+prevention of immoral traffic” respectively. This legislation
+aims to stop immoral trafficking and prostitution in India
+and is divided into 25 sections and one schedule.
+\n\n 2. The Dowry Prohibition Act, 1961 (28 of 1961) (Amended
+in 1986)
+Dowry Prohibition Act.in 1986)\n\n
+Indian law, enacted on May 1,
+1961, intended to prevent the giving or receiving of
+a dowry. Under the Dowry Prohibition Act, dowry includes
+property, goods, or money given by either party to the
+marriage, by the parents of either party, or by anyone else
+in connection with the marriage. The Dowry Prohibition
+Act applies to persons of all religions in India.
+\n\n3.The Commission of Sati (Prevention) Act, 1987 (3 of
+1988)\n\n
+The Act seeks to prevent sati, the voluntary or forced
+burning or burying alive of a widow, and to prohibit
+glorification of this action through the observance of any
+ceremony, participation in any procession, creation of a
+financial trust, construction of a temple, or any actions to
+commemorate or honor the memory of a widow who
+committed sati.
+• \n\n4.Protection of Women from Domestic Violence Act, 2005\n\n
+The Protection of Women from Domestic Violence Act
+2005 is an Act of the Parliament of India enacted to
+protect women from domestic violence. It was brought
+into force by the Indian government and Ministry of
+Women and Child Development on 26 October 2006. The
+Act provides a definition of  for the first time in Indian law, with this definition being broad
+and including not only physical violence, but also other
+forms of violence such as emotional and psychological
+abuse. It is a civil law meant primarily for protection
+orders, rather than criminal enforcement.\n\n
+5.The Sexual Harassment of Women at Workplace
+(PREVENTION, PROHIBITION and REDRESSAL) Act, 2013\n\n
+The Sexual Harassment of Women at Workplace
+(Prevention, Prohibition and Redressal) Act, 2013 is
+a legislative act in India that seeks to protect women
+from sexual harassment at their place of work. It was
+passed by the Lok Sabha (the lower house of the Indian
+Parliament) on 3 September 2012. It was passed by
+the Rajya Sabha (the upper house of the Indian
+Parliament) on 26 February 2013. The Bill got the assent
+of the President on 23 April 2013. The Act came into
+force from 9 December 2013. This statute superseded
+the Vishaka Guidelines for Prevention Of Sexual
+Harassment (POSH) introduced by the Supreme Court (SC)
+of India. It was reported by the International Labour
+Organization that very few Indian employers were
+compliant to this statute. Most Indian employers have not
+implemented the law despite the legal requirement that
+any workplace with more than 10 employees need to
+implement it. According to a FICCI-EY November 2015
+report, 36% of Indian companies and 25% among MNCs
+are not compliant with the Sexual Harassment Act, 2013.
+The government has threatened to take stern action
+against employers who fail to comply with this law.\n\n
+6.The Criminal Law (Amendment) Act, 2013\n\n
+The Criminal Law (Amendment) Act, 2013 (Nirbhaya
+ Act) is an Indian legislation passed by the Lok Sabha on
+ 19 March 2013, and by the Rajya Sabha on 21 March
+ 2013, which provides for amendment of Indian Penal
+ Code, Indian Evidence Act, and Code of Criminal
+ Procedure, 1973 on laws related to sexual offences. The
+ Bill received Presidential assent on 2 April 2013 and was
+ deemed to be effective from 3 February 2013. It was
+ originally an Ordinance promulgated by the President of
+ India, Pranab Mukherjee, on 3 February 2013, in light of
+ the protests in the 2012 Delhi gang rape case.\n\n
+ 7.The Indecent Representation of Women (Prohibition) Act,
+ 1986\n\n
+ The Indecent Representation of Women (Prohibition) Act,
+ 1986 is an Act of the Parliament of India which was
+ enacted to prohibit indecent representation of women
+ through advertisement or in publications, writings,
+ paintings, figures or in any other manner."
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
